@@ -1,7 +1,9 @@
 
 public class SHS {
+
 	public static void main(String[] args) {
-		// 1조 Git practice
+		// TODO Auto-generated method stub
 		System.out.println("I'AM SORRY, MY TEAM");
 	}
+
 }
