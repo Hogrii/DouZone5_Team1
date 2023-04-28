@@ -1,7 +1,9 @@
 
-public class Main {
+public class PSH {
+
 	public static void main(String[] args) {
-		// 1조 Git practice
-		
+		// feat : PSH class
+
 	}
+
 }
