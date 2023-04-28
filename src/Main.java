@@ -1,7 +1,7 @@
 
 public class Main {
 	public static void main(String[] args) {
-		// 1조 Git practice
+		System.out.println("민아는 배가 고파요");
 		
 	}
 }
